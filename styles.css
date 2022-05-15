@@ -482,6 +482,11 @@ a {
     height: 100%;
   }
 
+  .desktop-orientation {
+    position: fixed;
+    width: 100%;
+  }
+
   .word-wrapper {
     float: right;
   }
