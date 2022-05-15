@@ -28,6 +28,9 @@
   height: 100%;
 }
 
+.desktop-orientation {
+  width: 100%;
+}
 
 .sidenav {
   display: flex;
@@ -580,10 +583,6 @@ a {
   .linkedin-container:hover,
   .youtube:hover {
     transform: scale(1.3);
-  }
-
-  .desktop-orientation {
-    width: 100%;
   }
 
 }
